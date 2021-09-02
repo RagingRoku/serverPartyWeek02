@@ -1,0 +1,23 @@
+[
+    {
+        "description":"My favorite school",
+        "link":"https://www.santarosa.edu"
+    },
+    {
+        "description":"Well designed tech",
+        "link":"https://www.apple.com"
+    },
+    {
+        "description":"Useful web development resource!",
+        "link":"https://www.w3schools.com"
+    },
+    {
+        "description":"Useful web development library",
+        "link":"https://developer.mozilla.org/"
+    },
+    {
+        "description":"A blast from the past",
+        "link":"https://cs50a-module17-rochinmartin.srjcethanwilde.repl.co/"
+    }
+    
+]
